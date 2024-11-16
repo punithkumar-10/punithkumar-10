@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Professional</h3>
 
 - 🌱 Currently exploring **Advanced Machine Learning** and **Deep Learning**
-- 💬 Ask me about **Time Series Analysis, Machine Learning Algorithms, and AI Development**
+- 💬 Ask me about **Deep Learning, Machine Learning, and AI Development**
 - 📫 How to reach me: **punithkumarnimmala@gmail.com**
 
 ---
