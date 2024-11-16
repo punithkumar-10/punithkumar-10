@@ -27,10 +27,6 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><strong>PhishY</strong> - A phishing detection tool utilizing Machine Learning algorithms and browser extensions to identify malicious websites.</li>
-  <li><strong>AirCanvas</strong> - An AI-powered virtual drawing tool using hand gestures, developed with OpenCV and Python.</li>
-</ul>
+
 
 ---
