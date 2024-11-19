@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm N PUNITH KUMAR</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Data Science Professional</h3>
 
-- 🌱 Currently exploring **Advanced Machine Learning** and **Deep Learning**
+- 🌱 Currently exploring **Advanced Machine Learning**, **Deep Learning** and **Data Engineering**
 - 💬 Ask me about **Deep Learning, Machine Learning, and AI Development**
 - 📫 How to reach me: **punithkumarnimmala@gmail.com**
 
