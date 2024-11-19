@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm N PUNITH KUMAR</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Data Science Professional</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science | Data Engineering Professional</h3>
 
 - 🌱 Currently exploring **Advanced Machine Learning**, **Deep Learning** and **Data Engineering**
 - 💬 Ask me about **Deep Learning, Machine Learning, and AI Development**
