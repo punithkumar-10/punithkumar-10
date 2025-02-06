@@ -42,7 +42,4 @@ AI Engineer passionate about **Generative AI, Deep Learning, and Advanced Machin
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a>
-  <a href="https://ollama.ai/" target="_blank"> <img src="https://ollama.com/favicon.ico" alt="Ollama" width="40" height="40"/> </a>
-  <a href="https://langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/127575233?s=280&v=4" alt="LangChain" width="40" height="40"/> </a>
-  <a href="https://github.com/facebookresearch/llama" target="_blank"> <img src="https://yt3.googleusercontent.com/ytc/APkrFKbOqfYmMSfFx9XwvLs18E70E3SDTVxJH1CrnBKrIw=s176-c-k-c0x00ffffff-no-rj" alt="LLaMA" width="40" height="40"/> </a>
 </p>
