@@ -11,7 +11,7 @@ AI Engineer passionate about **Generative AI, Deep Learning, and Advanced Machin
 
 💡 **What I Do**  
 ✔ Develop and optimize **AI/ML models**  
-✔ Implement **Efficient Data Pipelines**  
+✔ Implement **Efficient Data Pipelines**   
 ✔ Contribute to **Open Source AI Projects**  
 ✔ Participate in **AI Hackathons & Challenges**  
 
