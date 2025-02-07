@@ -6,7 +6,7 @@ AI Engineer passionate about **Generative AI, Deep Learning, and Advanced Machin
 
 🔍 **Currently Exploring**  
 - **Generative AI** (LLMs, Agentic RAG, GenAI Frameworks)   
-- **Advanced Deep Learning Architectures**  
+- **Advanced Deep Learning Architectures**   
 - **Scalable AI & ML Pipelines**  
 
 💡 **What I Do**  
