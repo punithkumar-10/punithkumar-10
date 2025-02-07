@@ -26,7 +26,7 @@ AI Engineer passionate about **Generative AI, Deep Learning, and Advanced Machin
   <a href="https://linkedin.com/in/punithkumarnimmala" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/punithkumar-10" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
+ 
 ---
 
 <h3 align="left">🛠 Skills & Tools:</h3>
