@@ -5,7 +5,7 @@
 AI Engineer passionate about **Generative AI, Deep Learning, and Advanced Machine Learning**. I specialize in **building scalable AI models**, optimizing **ML pipelines**, and working on **cutting-edge AI research**.  
 
 🔍 **Currently Exploring**  
-- **Generative AI** (LLMs, Agentic RAG, GenAI Frameworks)  
+- **Generative AI** (LLMs, Agentic RAG, GenAI Frameworks)   
 - **Advanced Deep Learning Architectures**  
 - **Scalable AI & ML Pipelines**  
 
